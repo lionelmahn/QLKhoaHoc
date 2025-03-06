@@ -41,7 +41,8 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 
 
 # 🎯 Chức năng chính:
-- Quản lý học viên (Thêm, sửa, xóa, tìm kiếm)
+- Quản lý học viên (Thêm, sửa, xóa)
+- Quản lý khóa học (Thêm, sửa, xóa khóa học, quản lý học viên tham gia khóa học)
 # 📌 Trạng Thái Dự Án
 ## 🛠 Đang phát triển – Dự án vẫn đang trong quá trình xây dựng, các tính năng có thể thay đổi.
 - 🚀 Repositories Dự án được cập nhật mới nhất tính đến thời điểm hiện tại: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
