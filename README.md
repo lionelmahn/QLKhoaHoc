@@ -4,7 +4,7 @@
 ## 👋 About Me  
 Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - 🌱 Hiện tại tôi đang học Laravel và phát triển các ứng dụng web.  
-- 🚀 Repositories Dự án được cập nhật mới nhất tính đến thời điểm hiện tại: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
+- 🚀 Repositories Dự án: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
 - 📫 Liên hệ:[Email](23010909@st.phenikaa-uni.edu.vn)  
 
 ---
@@ -54,7 +54,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <img src="imgpr/classdiagram1.png">
 <h1>Use case</h1>
 <h2>Case tổng quát</h2> 
-<img src=''>
+<img src='imgpr/casetq.png'>
 <h2>Use case Quản lý học viên</h2>
 <img src='imgpr/caseqlhv.png'>
 <h2>Use case Quản lý khóa học</h2>
@@ -71,14 +71,14 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <img src='imgpr/bieudohoatdongchucnangcapnhat.png'>
 <h2>Biểu đồ hoạt động chức năng xóa</h2>
 <img src='imgpr/bieudohoatdongchucnangxoa.png'>
----
+
 # Một vài hình ảnh demo về website
 <h2>Waiting Page</h2>
 <img src="imgpr/welcome.png">
 <h2>Đăng nhập</h2>
 <img src="imgpr/login.png">
 <h2>Đăng kí</h2>
-<img src="">
+<img src="imgpr/dangki.png">
 <h2>Dashboad</h2>
 <img src="imgpr/dashboard.png">
 <h2>Danh sách học viên</h2>
@@ -99,7 +99,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <img src="imgpr/addhvkh.png">
 <h2>Danh sách học viên - Khóa học</h2>
 <img src="imgpr/hvkh.png">
----
+
 
 
 
