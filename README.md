@@ -4,7 +4,7 @@
 ## 👋 About Me  
 Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - 🌱 Hiện tại tôi đang học Laravel và phát triển các ứng dụng web.  
-- 🚀 Repositories Dự án: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
+- 🚀 Repositories Dự án được cập nhật mới nhất tính đến thời điểm hiện tại: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
 - 📫 Liên hệ:[Email](23010909@st.phenikaa-uni.edu.vn)  
 
 ---
@@ -48,6 +48,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 ---
 # 🔗 Truy cập ứng dụng
 👉 [Mở ứng dụng tại đây](https://fantastic-train-v66q7gqr55qw3x5rj-8000.app.github.dev/)
+
 👉 [Video demo](https://youtu.be/ZbF379UCdfc)
 ---
 <h1>Class Diagram</h1>
@@ -99,7 +100,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 <img src="imgpr/addhvkh.png">
 <h2>Danh sách học viên - Khóa học</h2>
 <img src="imgpr/hvkh.png">
-
+---
 
 
 
