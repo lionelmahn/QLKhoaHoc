@@ -24,7 +24,7 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 
 🚀 Thiết lập
 # 1️⃣ Clone repository
-- git clone https://github.com/lionelmahn/ObjectPHP_QuanLyCongViec.git
+- git clone https://github.com/lionelmahn/QLKhoaHoc.git
 - cd repository
 # 2️⃣ Composer and Laravel:
 - composer install
