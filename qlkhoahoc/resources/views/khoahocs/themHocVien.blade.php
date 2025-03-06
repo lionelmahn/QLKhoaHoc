@@ -1,7 +1,7 @@
 <x-app-layout title="Thêm học viên vào khóa học {{ $khoahoc->ten_khoa_hoc }}">
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Thêm học viên vào khóa học ' . $khoahoc->ten_khoa_hoc) }}
+            {{ __('Thêm học viên - ' . $khoahoc->ten_khoa_hoc) }}
         </h2>
     </x-slot>
 
