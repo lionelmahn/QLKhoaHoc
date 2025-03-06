@@ -47,8 +47,8 @@ Xin chào! Tôi là **Nguyễn Kiêm Mạnh_23010909**.
 - 🚀 Repositories Dự án được cập nhật mới nhất tính đến thời điểm hiện tại: [Hệ thống quản lý học viên](https://github.com/lionelmahn/QLKhoaHoc)  
 ---
 # 🔗 Truy cập ứng dụng
-👉 [Mở ứng dụng tại đây](https://symmetrical-umbrella-7vvp4rp5x456hr7rr-8000.app.github.dev/)
-👉 [Video demo](https://youtu.be/rjqEwdQFVdA)
+👉 [Mở ứng dụng tại đây](https://fantastic-train-v66q7gqr55qw3x5rj-8000.app.github.dev/)
+👉 [Video demo](https://youtu.be/ZbF379UCdfc)
 ---
 <h1>Class Diagram</h1>
 <img src="imgpr/classdiagram1.png">
